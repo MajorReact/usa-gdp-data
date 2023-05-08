@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Visualizing data - Getting Started
+
+![Screenshot (178)](https://user-images.githubusercontent.com/94718571/236867266-5ce72482-454f-4b8a-8324-de1e46431c54.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
